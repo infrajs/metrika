@@ -1,0 +1,11 @@
+{
+	"name": "infrajs/metrika",
+	"homepage":"https://github.com/infrajs/metrika",
+	"license": "GPL3",
+	"require":{
+		"infrajs/ans":"~1",
+		"infrajs/nostore":"~1",
+		"infrajs/path":"~1",
+		"infrajs/config":"~1"
+	}
+}
